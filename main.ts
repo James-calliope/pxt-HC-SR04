@@ -24,7 +24,7 @@ namespace HCSR04 {
     /**
     * get Ultrasonic distance
     */
-    //%  block="Ultrasonic distance in unit %distance_unit at trig pin%trig echo pin %echo"
+    //%  block="Ultrasonic distance in unit %distance_unit at trig%trig echo%echo"
     //% weight=10
     export function distance(distance_unit: Distance_Unit, trig: DigitalPin, echo: DigitalPin): number {
 
