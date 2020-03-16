@@ -18,7 +18,7 @@ enum Distance_Unit {
 /**
  * Custom blocks
  */
-//% weight=10 color=#0fbc11 icon="\uf140"
+//% weight=10 color=#0fbc11 icon="\uf140" block="HC-SR04"
 namespace HCSR04 {
 
     /**
